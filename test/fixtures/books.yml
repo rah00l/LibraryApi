@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: Book One
+  status: available # Set the status explicitly
+  library: one
+  user: one
+
+two:
+  title: Book Two
+  status: MyString
+  library: one
+  user: two
