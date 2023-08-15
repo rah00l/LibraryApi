@@ -1,4 +1,4 @@
-```markdown
+
 # LibraryApi - Library API Documentation
 
 The **LibraryApi** is a JSON API endpoint that provides information about books available in specific libraries. This documentation outlines how to retrieve books for different libraries and how each book's status is presented.
